@@ -19,6 +19,7 @@ proyectos y mis intereses.
 * CSS
 * Angular
 * Python
+* MySQL
 ## Soft Skills
 * Trabajo en equipo
 * Liderazgo
