@@ -9,7 +9,7 @@ Soy estudiante de Ingeniería en Computación, apasionado por la tecnología y e
 * Nombre: Jaren Pazmiño
 * Ocupación: Estudiante de Ingeniería en Computación
 * Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: [Tu sitio web]
+* Sitio web: Coming Soon...
 ## Proyectos
 En esta sección, encontrarás una selección de mis proyectos más destacados, donde aplico mis conocimientos en Ingeniería en Computación. Cada proyecto refleja mis habilidades en programación, desarrollo de software y resolución de problemas
 * Sistema de Inventario
