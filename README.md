@@ -15,7 +15,7 @@ En esta sección, encontrarás una selección de mis proyectos más destacados, 
 * Sistema de Inventario
 * Coming Soon...
 ## Hard Skills
-* HTML
+* HTML 
 * CSS
 * Angular
 * Python
