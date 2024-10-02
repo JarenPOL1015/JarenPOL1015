@@ -5,22 +5,22 @@ Soy estudiante de Ingeniería en Computación, apasionado por la tecnología y e
 * [Proyectos](#proyectos)
 * [Hard Skills](#hard-skills)
 * [Soft Skills](#soft-skills)
-## Información personal 
+## 🤳 Información personal 🤳
 * Nombre: Jaren Pazmiño
 * Ocupación: Estudiante de Ingeniería en Computación
-* Lugar de residencia: Guayaquil, Ecuador
+* Lugar de residencia: Guayaquil, Ecuador 🇪🇨
 * Sitio web: Coming Soon...
-## Proyectos
+## 🌟 Proyectos 🌟
 En esta sección, encontrarás una selección de mis proyectos más destacados, donde aplico mis conocimientos en Ingeniería en Computación. Cada proyecto refleja mis habilidades en programación, desarrollo de software y resolución de problemas
 * Sistema de Inventario
 * Coming Soon...
-## Hard Skills
+## 💪 Hard Skills 💪
 * HTML 
 * CSS
 * Angular
 * Python
 * MySQL
-## Soft Skills
+## 🙋‍♂️ Soft Skills 🙋‍♂️
 * Trabajo en equipo
 * Liderazgo
 * Disciplina
