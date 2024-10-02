@@ -6,9 +6,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Jaren Pazmiño
+* Ocupación: Estudiante de Ingeniería en Computación
+* Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
