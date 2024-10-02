@@ -4,13 +4,22 @@ proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [Hard Skills](#hard-skills)
+* [Soft Skills](#soft-skills)
 ## Información personal
 * Nombre: Jaren Pazmiño
 * Ocupación: Estudiante de Ingeniería en Computación
 * Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
-## Intereses
-* [Lista de tus intereses]
+* Sistema de Inventario
+* Coming Soon...
+## Hard Skills
+* HTML
+* CSS
+* Angular
+* Python
+## Soft Skills
+* Trabajo en equipo
+* Liderazgo
+* Disciplina
