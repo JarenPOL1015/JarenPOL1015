@@ -18,7 +18,7 @@
 - **Nombre:** Jaren Pazmiño
 - **Ocupación:** Estudiante de Ingeniería en Computación
 - **Lugar de residencia:** Guayaquil, Ecuador 🇪🇨
-- **Sitio web:** *Coming Soon...*
+- **Sitio web:** [Visitar](https://jarenpol1015.github.io/curriculum/)
 
 ---
 
