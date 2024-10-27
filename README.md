@@ -10,6 +10,7 @@
 - [Proyectos](#-proyectos-)
 - [Hard Skills](#-hard-skills-)
 - [Soft Skills](#-soft-skills-)
+- [Estadisticas](#-estadisticas-)
 - [Contacto](#-contacto-)
 
 ---
