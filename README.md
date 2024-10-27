@@ -66,10 +66,20 @@ Proyectos desarrollados fuera de un contexto académico, en los que exploro nuev
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jarenpol1015&show_icons=true&theme=radical)
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=jarenpol1015.jarenpol1015)
+![Jaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarenpol1015&show_icons=true&theme=radical)
+
+## 💻 Lenguajes Más Usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarenpol1015&layout=compact&theme=radical)
+
+## 🔥 Racha de Contribuciones
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarenpol1015&theme=radical)
+
+## 📈 Actividad de Contribuciones
 ![Actividad de Contribuciones](https://github-readme-activity-graph.cyclic.app/graph?username=jarenpol1015&theme=github)
-![Contribuciones](https://github-contributions-canvas.vercel.app/api?username=jarenpol1015&bg=none&color=2171b5&line=false)
+
+## 🎯 Progreso de Objetivos
+![Progreso Aprendiendo React](https://img.shields.io/badge/Aprendiendo%20React-50%25-2171b5)
+![Progreso Contribuciones Open Source](https://img.shields.io/badge/Contribuciones%20Open%20Source-80%25-1abc9c)
 
 
 ---
