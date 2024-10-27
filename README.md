@@ -29,14 +29,15 @@ Aquí encontrarás una selección de mis proyectos destacados, organizados en do
 ### DAWM
 Proyectos desarrollados en el contexto de la asignatura DAWM, aplicando tecnologías web avanzadas.
 
-- **Sistema de Inventario y Reporte de Ventas:** Sistema diseñado en **C#** para gestionar inventarios y generar reportes de ventas, orientado a empresas.
-- **PocketSOC - Escaneo de Vulnerabilidades:** Herramienta de escaneo de puertos y análisis de vulnerabilidades, usando **Shodan API** y **MongoDB** para almacenamiento.
-- **Class Insight:** Aplicación de procesamiento de video y audio usando **IA** (Whisper) para obtener resúmenes de videos de YouTube, con exportación en formato PDF.
+- **Curriculum Web:** Sitio web responsivo de currículum vitae desarrollado con **HTML** y **CSS** para una presentación profesional en línea. [Ver Proyecto](https://jarenpol1015.github.io/curriculum/) | [Ver Repositorio](https://github.com/jarenpol1015/curriculum)
+
 
 ### Otros Proyectos Personales
 Proyectos desarrollados fuera de un contexto académico, en los que exploro nuevas tecnologías y aplico conocimientos en programación y desarrollo.
 
-- **Class Insight (Personalizado):** Versión extendida del proyecto de clase, optimizada para procesar y resumir múltiples formatos de archivo multimedia.
+- **Sistema de Inventario y Reporte de Ventas:** Sistema diseñado en **C#** para gestionar inventarios y generar reportes de ventas, orientado a empresas.
+- **PocketSOC - Escaneo de Vulnerabilidades:** Herramienta de escaneo de puertos y análisis de vulnerabilidades, usando **Shodan API** y **MongoDB** para almacenamiento.
+- **Class Insight:** Aplicación de procesamiento de video y audio usando **IA** (Whisper) para obtener resúmenes de videos de YouTube, con exportación en formato PDF.
 - **Sistema de Gestión de Tareas con RabbitMQ:** Plataforma desarrollada en **React** y **SQL**, utilizando **RabbitMQ** para la gestión de tareas en un ambiente colaborativo.
 
 ---
