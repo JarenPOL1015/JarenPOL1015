@@ -30,6 +30,7 @@ Aquí encontrarás una selección de mis proyectos destacados, organizados en do
 Proyectos desarrollados en el contexto de la asignatura DAWM, aplicando tecnologías web avanzadas.
 
 - **Curriculum Web:** Sitio web responsivo de currículum vitae desarrollado con **HTML** y **CSS** para una presentación profesional en línea. [Ver Proyecto](https://jarenpol1015.github.io/curriculum/) | [Ver Repositorio](https://github.com/jarenpol1015/curriculum)
+- **Coming Soon...**
 
 
 ### Otros Proyectos Personales
@@ -43,6 +44,7 @@ Proyectos desarrollados fuera de un contexto académico, en los que exploro nuev
 ---
 
 ## 💪 Hard Skills 💪
+
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
