@@ -65,6 +65,15 @@ Proyectos desarrollados fuera de un contexto académico, en los que exploro nuev
 
 ---
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jarenpol1015&show_icons=true&theme=radical)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=jarenpol1015.jarenpol1015)
+![Actividad de Contribuciones](https://github-readme-activity-graph.cyclic.app/graph?username=jarenpol1015&theme=github)
+![Contribuciones](https://github-contributions-canvas.vercel.app/api?username=jarenpol1015&bg=none&color=2171b5&line=false)
+
+
+---
+
 ## 📫 Contacto 📫
 Si deseas contactarme para colaboraciones o solo para conversar sobre tecnología y programación, aquí tienes mis redes:
 
