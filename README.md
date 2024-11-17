@@ -3,7 +3,14 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Jaren%20Pazmiño-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaren-pazmi%C3%B1o-b87359277/)](https://www.linkedin.com/in/jaren-pazmi%C3%B1o-b87359277/) 
 [![Mail Badge](https://img.shields.io/badge/-jarapazm@espol.edu.ec-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jarapazm@espol.edu.ec)](mailto:jarapazm@espol.edu.ec)
 
-¡Hola! Soy **Jaren Pazmiño**, estudiante de **Ingeniería en Computación** y apasionado por la tecnología y el desarrollo de soluciones innovadoras. En este espacio, comparto mis proyectos, habilidades y reflexiones sobre el mundo de la programación y la computación. Mi objetivo es aprender, crecer y contribuir a la comunidad tecnológica. ¡Espero que encuentres útil y motivador el contenido que aquí presento!
+¡Hola! Soy **Jaren Pazmiño**, estudiante de **Ingeniería en Computación** y apasionado por la tecnología y el desarrollo de soluciones innovadoras. En este espacio, comparto mis proyectos, habilidades y reflexiones sobre el mundo de la programación y la computación. Mi objetivo es aprender, crecer y contribuir a la comunidad tecnológica.
+
+Miembro del Club de Inteligencia Artificial Politécnico
+![CIAP](media/img/Logo_CIAP%20(Tortuga%20y%20letras).png)
+
+
+Estudiante de la Escuela Superior Politécnica del Litoral
+![ESPOL](media/img/Espol_Logo_2023.png)
 
 ## 🔰 Contenido 🔰
 - [Información Personal](#-información-personal-)
@@ -30,7 +37,8 @@ Aquí encontrarás una selección de mis proyectos destacados, organizados en do
 ### DAWM
 Proyectos desarrollados en el contexto de la asignatura DAWM, aplicando tecnologías web avanzadas.
 
-- **Curriculum Web:** Sitio web responsivo de currículum vitae desarrollado con **HTML** y **CSS** para una presentación profesional en línea. | [Ver Proyecto](https://jarenpol1015.github.io/curriculum/) | [Ver Repositorio](https://github.com/jarenpol1015/curriculum)
+- **Curriculum Web:** Sitio web responsive de currículum vitae desarrollado con **HTML** y **CSS** para una presentación profesional en línea. | [Ver Proyecto](https://jarenpol1015.github.io/curriculum/) | [Ver Repositorio](https://github.com/jarenpol1015/curriculum)
+- **Landing Page:** Sitio web responsive para la empresa *ASESCOPY SAS* para dar a conocer sus servicios relacionados con la contabilidad y tributación. Desarrollado con **HTML**, **CSS** y **JS**, además de la implementación de GET y POST a una base de datos. | [Ver Proyecto](https://jarenpol1015.github.io/landing/) | [Ver Repositorio](https://github.com/JarenPOL1015/landing)
 - **Coming Soon...**
 
 
