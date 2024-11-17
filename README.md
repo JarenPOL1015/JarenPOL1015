@@ -5,19 +5,11 @@
 
 ¡Hola! Soy **Jaren Pazmiño**, estudiante de **Ingeniería en Computación** y apasionado por la tecnología y el desarrollo de soluciones innovadoras. En este espacio, comparto mis proyectos, habilidades y reflexiones sobre el mundo de la programación y la computación. Mi objetivo es aprender, crecer y contribuir a la comunidad tecnológica.
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-  <div>
-    <p>Miembro del Club de Inteligencia Artificial Politécnico</p>
-    <img src="media/img/Logo_CIAP%20(Tortuga%20y%20letras).png" alt="CIAP" width="200">
-  </div>
-  <div>
-    <p>Estudiante de la Escuela Superior Politécnica del Litoral</p>
-    <img src="media/img/Espol_Logo_2023.png" alt="ESPOL" width="200">
-  </div>
-</div>
+| Descripción                                             | Imagen                                                                 |
+|---------------------------------------------------------|------------------------------------------------------------------------|
+| **Miembro del Club de Inteligencia Artificial Politécnico** | ![CIAP](media/img/Logo_CIAP%20(Tortuga%20y%20letras).png)             |
+| **Estudiante de la Escuela Superior Politécnica del Litoral** | ![ESPOL](media/img/Espol_Logo_2023.png)                               |
 
-| Miembro del Club de Inteligencia Artificial Politécnico ![CIAP](media/img/Logo_CIAP%20(Tortuga%20y%20letras).png) | Estudiante de la Escuela Superior Politécnica del Litoral ![ESPOL](media/img/Espol_Logo_2023.png) |
-|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 
 ## 🔰 Contenido 🔰
