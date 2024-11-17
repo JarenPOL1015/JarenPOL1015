@@ -8,7 +8,7 @@
 | **Miembro del Club de Inteligencia Artificial Politécnico**  | **Estudiante de la Escuela Superior Politécnica del Litoral**  |
 |---------------------------------------------------------|------------------------------------------------------------------------|
 | ![CIAP](media/img/Logo_CIAP%20(Tortuga%20y%20letras).png) |   ![ESPOL](media/img/Espol_Logo_2023.png)            |
-|
+
 
 
 
