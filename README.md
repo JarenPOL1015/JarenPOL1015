@@ -10,8 +10,6 @@
 | ![CIAP](media/img/Logo_CIAP%20(Tortuga%20y%20letras).png) |   ![ESPOL](media/img/Espol_Logo_2023.png)            |
 
 
-
-
 ## 🔰 Contenido 🔰
 - [Información Personal](#-información-personal-)
 - [Proyectos](#-proyectos-)
@@ -54,16 +52,7 @@ Proyectos desarrollados fuera de un contexto académico, en los que exploro nuev
 
 ## 💪 Hard Skills 💪
 
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,python,mysql,java,cs)](https://skillicons.dev)
 
 ---
 
@@ -90,9 +79,9 @@ Proyectos desarrollados fuera de un contexto académico, en los que exploro nuev
 ## 📫 Contacto 📫
 Si deseas contactarme para colaboraciones o solo para conversar sobre tecnología y programación, aquí tienes mis redes:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaren-pazmi%C3%B1o-b87359277/)](https://www.linkedin.com/in/jaren-pazmi%C3%B1o-b87359277/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1015soluciones/)](https://www.instagram.com/1015soluciones/)
-[![Mail Badge](https://img.shields.io/badge/-Correo%20Electrónico-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jarapazm@espol.edu.ec)](mailto:jarapazm@espol.edu.ec)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/1015soluciones/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaren-pazmi%C3%B1o-b87359277/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jarapazm@espol.edu.ec)
 
 ---
 
