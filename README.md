@@ -81,7 +81,7 @@ Si deseas contactarme para colaboraciones o solo para conversar sobre tecnologí
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/1015soluciones/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaren-pazmi%C3%B1o-b87359277/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jarapazm@espol.edu.ec)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:jarapazm@espol.edu.ec)
 
 ---
 
